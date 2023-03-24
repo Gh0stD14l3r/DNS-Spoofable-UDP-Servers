@@ -14,6 +14,7 @@ https://github.com/Gh0stD14l3r/DNS-Amplification-DDOS
 - Install requirements
 -- pip install wget
 -- pip install scapy
+-- pip install argparse
 ```
 
 ## Usage
